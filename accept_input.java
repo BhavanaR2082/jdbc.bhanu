@@ -20,7 +20,7 @@ public class accept_input {
 	   public static void main(String[] args) {
 	      String url = "jdbc:mysql://localhost:3306/jdbcconnection";
 	      String username = "root";
-	      String password = "Bhanusanthu";
+	      String password = "password";
 	      Connection con = null;
 	      Statement stmt = null;
 	      ResultSet res = null;
