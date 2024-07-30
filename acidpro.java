@@ -13,7 +13,7 @@ public class acidpro {
 	
 	   static String url = "jdbc:mysql://localhost:3306/jdbcconnection";
 	   static String username = "root";
-	   static String password = "Bhanusanthu";
+	   static String password = "password";
 	   static Connection con = null;
 	   private static PreparedStatement pstmt_s;
 	   private static PreparedStatement pstmt_r;
